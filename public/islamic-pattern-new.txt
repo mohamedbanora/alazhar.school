@@ -1,0 +1,16 @@
+# Islamic Pattern Background Image Instructions
+# This is a placeholder for islamic-pattern-new.jpg
+
+# Please replace this .txt file with the actual islamic-pattern-new.jpg image file
+
+# Recommended specifications:
+# - Format: JPG/JPEG
+# - Resolution: 1920x1080 or higher
+# - File size: Optimized for web (under 500KB)
+# - Content: Traditional Islamic geometric patterns or arabesque designs
+# - Colors: Should complement the amber/orange theme of the website
+
+# The image will be used as a background for the Call to Action section
+# on the contact page, with a semi-transparent overlay for text readability.
+
+# File should be placed in: public/islamic-pattern-new.jpg 
